@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "fancoin.co",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "fancoin.co",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "images/256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ]
+}
