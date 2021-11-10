@@ -2,22 +2,22 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "fancoin.co",
+  "name": "Fancoin",
   "orientation": "any",
   "scope": "/",
-  "short_name": "fancoin.co",
+  "short_name": "Fancoin",
   "start_url": "/",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "images/32x32.png",
+      "src": "https://fancoin.co.za/32x32.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "images/256x256.png",
+      "src": "https://fancoin.co.za/Copy%20of%20fantokens.png",
       "type": "image/png",
-      "sizes": "256x256"
+      "sizes": "512x512"
     }
   ]
 }
