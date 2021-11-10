@@ -16,6 +16,14 @@
   "https://assets.website-files.com/60488fef87ba6781fa98ed5f/css/noappyet.webflow.3e95d28e7.css"
   rel="stylesheet" type="text/css">
 
+<link rel="manifest" href="manifest.json" />
+
+<script type="module">
+   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+   const el = document.createElement('pwa-update');
+   document.body.appendChild(el);
+</script>
+
 <style>
 .w-webflow-badge {
 visibility: hidden !important;
