@@ -6,8 +6,8 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Fancoin",
-  "start_url": "/",
-  "theme_color": "#ffffff",
+  "start_url": "https://fancoin.co.za/",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "https://fancoin.co.za/32x32.png",
