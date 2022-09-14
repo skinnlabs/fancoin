@@ -1,0 +1,22 @@
+<script src="https://cdn.withpersona.com/dist/persona-v4.2.0.js"></script>
+
+<script>
+
+  const client = new Persona.Client({
+
+    templateId: 'itmpl_zr7fxpTimrmUY4m9Jmej4FC8',
+
+    environment: 'sandbox',
+
+    onReady: () => client.open(),
+
+    onComplete: ({ inquiryId, status, fields }) => {
+
+      console.log(`Completed inquiry ${inquiryId} with status ${status}`);
+
+    }
+
+  });
+
+</script>
+
